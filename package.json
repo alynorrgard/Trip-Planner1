@@ -1,0 +1,19 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "mapbox-gl": "^0.53.1"
+  }
+}
