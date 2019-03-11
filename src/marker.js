@@ -23,3 +23,4 @@ function createMarker(type, coordinates) {
 }
 
 module.exports = createMarker;
+
